@@ -1,0 +1,19 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.body{
+    background-size: cover;
+}
+
+.button{
+font-size:23px ;
+margin: 15px;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
